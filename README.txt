@@ -4,4 +4,5 @@
 
 
 ## Analysis
-![schoolanalysis](schoolanalysis.png)
+!(schoolanalysis.png)
+https://github.com/TeodorAnderson/School_District_Analysis/blob/main/schoolanalysis.png
