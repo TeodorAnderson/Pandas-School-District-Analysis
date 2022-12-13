@@ -4,4 +4,4 @@
 
 
 ## Analysis
-  
+![schoolanalysis](schoolanalysis.png)
