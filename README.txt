@@ -4,7 +4,5 @@
 
 
 # Analysis
-![Analysis](schoolanalysis.png)
-https://github.com/TeodorAnderson/School_District_Analysis/blob/8de0d0c9c71bf08f5a3d10323969b912d67614dc/schoolanalysis.png
-schoolanalysis.png
-https://github.com/TeodorAnderson/School_District_Analysis/blob/main/schoolanalysis.png
+ As seen in the data, the charter schools differ by having on average better math scores in the lower-classmen (9th grade, 10th grade)and higher reading scores in the upper-classmen(11th, 12th) scores in the while the public schools differ by higher reading scores, slightly. When using a dataframe per school and coing the average scores per funding, we see that the lower funded schools do worst
+ 
