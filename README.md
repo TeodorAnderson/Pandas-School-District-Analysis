@@ -1,8 +1,6 @@
 ### School District Analysis
 
-## Module 4 Assignment 
-
-# Teodor Anderson
+## Teodor Anderson
 
 # Analysis
 
