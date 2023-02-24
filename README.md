@@ -1,9 +1,9 @@
-### School District Analysis
-
+# School District Analysis
 ## Teodor Anderson
-
-# Analysis
+### Overview
 Given a data set of a school district, this code, using pandas functions will output analyses and visualizations, differentiating grades of different grade-levels and charter vs public schools
+### Analysis
+
 
 ![Screenshot_20230224_031929](https://user-images.githubusercontent.com/116928193/221319571-5fc35494-9f2c-45b5-b4bf-b01773fa0533.png)
 ![Screenshot_20230224_031907](https://user-images.githubusercontent.com/116928193/221319581-0ae1ffc0-89ed-4871-8bbd-a2476623dcc6.png)
